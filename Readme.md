@@ -1,4 +1,4 @@
-# [🧮 Calculadora Con TypeScrip](https://theyinyan.github.io/Calculadora/)
+#🧮 Calculadora Con TypeScrip
 
 ## 📚 Módulo
 

@@ -1,4 +1,4 @@
-#🧮 Calculadora Con TypeScrip
+# 🧮 Calculadora Con TypeScrip
 
 ## 📚 Módulo
 

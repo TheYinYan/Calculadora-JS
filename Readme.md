@@ -1,4 +1,4 @@
-# [🧮 Calculadora – Ejercicio 02 UD 03](https://theyinyan.github.io/Calculadora/)
+# [🧮 Calculadora Con TypeScrip](https://theyinyan.github.io/Calculadora/)
 
 ## 📚 Módulo
 
